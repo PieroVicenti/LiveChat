@@ -2,6 +2,10 @@
 
 #Programming Languages
 
+React
+
+#Frameworks
+
 #Purpose of the project
 
 Project created to test backend features, linking backend and frontend.
