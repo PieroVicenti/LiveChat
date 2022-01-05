@@ -6,6 +6,8 @@ React
 
 ##Frameworks
 
+Express.js
+
 ##Purpose of the project
 
 Project created to test backend features, linking backend and frontend.
