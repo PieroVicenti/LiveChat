@@ -18,4 +18,5 @@ Express.js
 Project created to test backend features, linking backend and frontend.
 All the features are displayed opening two tabs.
 When two user enter the same room, they are able to chat instantaneously. 
+Users' names are displayed, as well as the time of the sent message.
 
