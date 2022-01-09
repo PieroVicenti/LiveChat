@@ -4,7 +4,7 @@ import io from "socket.io-client"
 import {useState} from "react";
 import Chat from './Chat';
 
-const socket = io.connect("http://localhost:3001");//connecting frontend with backend
+const socket = io.connect("http://localhost:3001");
 
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
 
   const joinRoom = () =>{
       if(username !== "" && room !==""){
-         socket.emit("join_room", room);//socket.emit allows us to connect backend and frontedn and pass the created event and the data
+         socket.emit("join_room", room);
          setShowChat(true);
       } 
   }
