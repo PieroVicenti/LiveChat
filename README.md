@@ -7,7 +7,7 @@
 
 ## Programming Languages
 
-React (To view the code please go to the Mater branch).
+- React (To view the code please go to the Mater branch).
 
 ## Frameworks
 
