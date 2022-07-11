@@ -17,6 +17,6 @@
 
 Project created to test backend features, linking backend and frontend.
 All the features are displayed opening two tabs.
- two users enter the same room, they'd able to chat instantaneously. 
+If two users enter the same room, they'd able to chat instantaneously. 
 Users' names are displayed, as well as the time of the sent message.
 
