@@ -16,6 +16,7 @@
 ## Purpose of the project
 
 Project created to test backend features, linking backend and frontend.
+<br>
 All the features are displayed opening two tabs.
 <br>
 If two users enter the same room, they'd able to chat instantaneously. 
